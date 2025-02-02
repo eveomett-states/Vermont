@@ -5,7 +5,7 @@ Use of this project is further governed by the terms of the [Creative Commons At
 
 # Vermont Json and Shapefile
 
-This json and shapefile were created by Professor Ellen Veomett and her student Arbie Hsu using the corresponding jupyter notebook.
+This json and shapefile were created by Professor Ellen Veomett and her student Ananya Agarwal using the corresponding jupyter notebook.
 
 # **Sources**
 All data retrieved 05/29/24:
