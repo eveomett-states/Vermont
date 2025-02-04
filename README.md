@@ -83,20 +83,20 @@ Data were cleaned and aggregated in the corresponding jupyter notebook using MGG
 - `GOV20D`: Number of votes for 2020 Democratic gubernatorial candidate
 - `GOV20R`: Number of votes for 2020 Republican gubernatorial candidate
 - `GOV20O`: Number of votes for 2020 other party's gubernatorial candidate
-- `HAL16O': Number of votes for 2016 other party's congressional candidate
-- `HAL18D': Number of votes for 2018 Democratic congressional candidate
-- `HAL18R': Number of votes for 2018 Republican congressional candidate
-- `HAL18O': Number of votes for 2018 other party's congressional candidate
-- `HAL20D': Number of votes for 2020 Democratic congressional candidate
-- `HAL20O': Number of votes for 2020 other party's congressional candidate
-- `LTG16D': Number of votes for 2016 Democratic Lieutenant Governor candidate
-- `LTG16R': Number of votes for 2016 Republican Lieutenant Governor candidate
-- `LTG16O': Number of votes for 2016 other party's Lieutenant Governor candidate
-- `LTG18R': Number of votes for 2018 Republican Lieutenant Governor candidate
-- `LTG18O': Number of votes for 2018 other party's Lieutenant Governor candidate
-- `LTG20D': Number of votes for 2020 Democratic Lieutenant Governor candidate
-- `LTG20R': Number of votes for 2020 Republican Lieutenant Governor candidate
-- `LTG20O': Number of votes for 2020 other party's Lieutenant Governor candidate
+- `HAL16O`: Number of votes for 2016 other party's congressional candidate
+- `HAL18D`: Number of votes for 2018 Democratic congressional candidate
+- `HAL18R`: Number of votes for 2018 Republican congressional candidate
+- `HAL18O`: Number of votes for 2018 other party's congressional candidate
+- `HAL20D`: Number of votes for 2020 Democratic congressional candidate
+- `HAL20O`: Number of votes for 2020 other party's congressional candidate
+- `LTG16D`: Number of votes for 2016 Democratic Lieutenant Governor candidate
+- `LTG16R`: Number of votes for 2016 Republican Lieutenant Governor candidate
+- `LTG16O`: Number of votes for 2016 other party's Lieutenant Governor candidate
+- `LTG18R`: Number of votes for 2018 Republican Lieutenant Governor candidate
+- `LTG18O`: Number of votes for 2018 other party's Lieutenant Governor candidate
+- `LTG20D`: Number of votes for 2020 Democratic Lieutenant Governor candidate
+- `LTG20R`: Number of votes for 2020 Republican Lieutenant Governor candidate
+- `LTG20O`: Number of votes for 2020 other party's Lieutenant Governor candidate
 - `PRE16D`: Number of votes for 2016 Democratic President
 - `PRE16R`: Number of votes for 2016 Republican President
 - `PRE16O`: Number of votes for 2016 other party's President
