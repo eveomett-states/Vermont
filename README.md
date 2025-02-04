@@ -103,7 +103,7 @@ Data were cleaned and aggregated in the corresponding jupyter notebook using MGG
 - `PRE20D`: Number of votes for 2020 Democratic President
 - `PRE20R`: Number of votes for 2020 Republican President
 - `PRE20O`: Number of votes for 2020 other party's President
-- 'SOS16O': Number of votes for 2016 other party's Secretary of State
+- 'SOS16O`: Number of votes for 2016 other party's Secretary of State
 - `SOS18D`: Number of votes for 2018 Democratic Secretary of State
 - `SOS18R`: Number of votes for 2018 Republican Secretary of State
 - `SOS18O`: Number of votes for 2018 other party's Secretary of State
