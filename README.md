@@ -5,7 +5,7 @@ Use of this project is further governed by the terms of the [Creative Commons At
 
 # Vermont Json and Shapefile
 
-This json and shapefile were created by Professor Ellen Veomett and her student Ananya Agarwal using the corresponding jupyter notebook.
+This json and shapefile were created by Professor Ellen Veomett and her student Ananya Agarwal using the corresponding jupyter notebook.  As part of the cleaning process, precincts were nested within counties and small rook adjacencies (under 30.5 m) were changed to queen adjacencies.
 
 # **Sources**
 All data retrieved 05/29/24:
@@ -23,6 +23,8 @@ Obtain the following data from Restricting Data Hub
 [2018 election data](https://redistrictingdatahub.org/dataset/vest-2018-vermont-precinct-and-election-results/)**:**  VEST 2018 vermont precinct and election results
 
 [2016 election data](https://redistrictingdatahub.org/dataset/vest-2016-vermont-precinct-and-election-results/)**:**  VEST 2016 vermont precinct and election results
+
+[2022 county data](https://redistrictingdatahub.org/dataset/vermont-county-cvap-data-2022/): the 2018-2022 American Community Survey (ACS), US Census Bureau
 
 ## Processing
 Data were cleaned and aggregated in the corresponding jupyter notebook using MGGG’s python library [maup](https://github.com/mggg/maup). 
