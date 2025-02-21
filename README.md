@@ -24,7 +24,7 @@ Obtain the following data from Restricting Data Hub
 
 [2016 election data](https://redistrictingdatahub.org/dataset/vest-2016-vermont-precinct-and-election-results/)**:**  VEST 2016 vermont precinct and election results
 
-[2022 county data](https://redistrictingdatahub.org/dataset/vermont-county-cvap-data-2022/): the 2018-2022 American Community Survey (ACS), US Census Bureau
+[2020 county data]([https://redistrictingdatahub.org/dataset/vermont-county-cvap-data-2022/](https://redistrictingdatahub.org/state/vermont/)): from 2020 Census Redistricting Data (P.L. 94-171) Shapefiles
 
 ## Processing
 Data were cleaned and aggregated in the corresponding jupyter notebook using MGGG’s python library [maup](https://github.com/mggg/maup). 
